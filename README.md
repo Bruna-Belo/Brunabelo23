@@ -1,7 +1,7 @@
  <div>
-   <a href="https://github.com/Brunabelo23">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunabelo23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunabelo23&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Bruna-belo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruna-belo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruna-belo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
